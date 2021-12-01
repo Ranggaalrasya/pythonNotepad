@@ -8,4 +8,4 @@ Includes the database file (there is no need to open that!)
 
 NB:yes, it can save file:)
 
-bilang aja klo ada yang kurang atau sekedar menyapa saya:) -RangDev
+bilang aja klo ada yang kurang atau sekedar menyapa saya:) -RangDev.
